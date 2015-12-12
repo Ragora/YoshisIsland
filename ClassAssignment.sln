@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAssignment", "ClassAssignment\ClassAssignment\ClassAssignment.csproj", "{B61723FE-874E-48EF-91A6-D47C55BF08D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAssignmentContent", "ClassAssignment\ClassAssignmentContent\ClassAssignmentContent.contentproj", "{BBAF89A5-EA36-421B-894F-D494A3A3011E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B61723FE-874E-48EF-91A6-D47C55BF08D7}.Debug|x86.ActiveCfg = Debug|x86
+		{B61723FE-874E-48EF-91A6-D47C55BF08D7}.Debug|x86.Build.0 = Debug|x86
+		{B61723FE-874E-48EF-91A6-D47C55BF08D7}.Release|x86.ActiveCfg = Release|x86
+		{B61723FE-874E-48EF-91A6-D47C55BF08D7}.Release|x86.Build.0 = Release|x86
+		{BBAF89A5-EA36-421B-894F-D494A3A3011E}.Debug|x86.ActiveCfg = Debug|x86
+		{BBAF89A5-EA36-421B-894F-D494A3A3011E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
